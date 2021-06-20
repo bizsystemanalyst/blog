@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://technicalba.github.io"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
